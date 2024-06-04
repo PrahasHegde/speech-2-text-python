@@ -1,0 +1,2 @@
+download the "vosk-model-en-us-0.42-gigaspeech" and put in in the same directory as your code and 
+update the path accordingly
